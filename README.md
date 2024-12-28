@@ -29,20 +29,20 @@ Here’s a walkthrough of my app:
 ## App Brainstorming (Step 4)💡
 
 ### Favorite Applications and Features
-1). Pinterest:
+**1). Pinterest:**
    - Ability to create creative, visually appealing boards for inspiration.
    - A robust search function that allows me to find specific photos or ideas effortlessly.
      
-2). Spotify:
+**2). Spotify:**
    - The ability to create infinite, curated music playlists.
    - Options to explore artist information and purchase merchandise directly.
      
-3). Indyx:
+**3). Indyx:**
    - Cataloging my closet to keep track of clothing items digitally.
    - Generating outfit ideas based on the items in my wardrobe.
    - Option to hire a personal stylist, though the cost ($100–$200) can be prohibitive.
      
-4). West:
+**4). West:**
    - Classic film photography features that evoke nostalgia and offer unique filters for photos.
      
 ### App Idea: Virtual Stylist & Outfit Planner
@@ -50,9 +50,9 @@ As someone deeply interested in fashion, discovering Indyx was a game-changer fo
 
 My idea is to build a free virtual styling app that uses machine learning and APIs to generate outfit ideas tailored to your wardrobe. Users can upload and catalog their clothes into the app, and the app will suggest outfits based on:
 
- - Weather Integration: Using a weather API to provide outfit recommendations for the next day.
- - Occasion-Specific Suggestions: Outfits tailored to events like casual outings, formal gatherings, or business meetings. 
- - Style Preferences: Machine learning algorithms that learn your preferences over time to deliver personalized recommendations.
+ - **Weather Integration:** Using a weather API to provide outfit recommendations for the next day.
+ - **Occasion-Specific Suggestions:** Outfits tailored to events like casual outings, formal gatherings, or business meetings. 
+ - **Style Preferences:** Machine learning algorithms that learn your preferences over time to deliver personalized recommendations.
   
 This app would combine the functionality of Indyx with the accessibility of Pinterest, offering a cost-effective and creative way to style yourself effortlessly. By democratizing the concept of personal styling, this app aims to make fashion more accessible to everyone.
 
