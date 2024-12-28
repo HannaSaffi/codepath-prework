@@ -32,15 +32,19 @@ Here’s a walkthrough of my app:
 1). Pinterest:
    - Ability to create creative, visually appealing boards for inspiration.
    - A robust search function that allows me to find specific photos or ideas effortlessly.
+     
 2). Spotify:
    - The ability to create infinite, curated music playlists.
    - Options to explore artist information and purchase merchandise directly.
+     
 3). Indyx:
    - Cataloging my closet to keep track of clothing items digitally.
    - Generating outfit ideas based on the items in my wardrobe.
    - Option to hire a personal stylist, though the cost ($100–$200) can be prohibitive.
+     
 4). West:
    - Classic film photography features that evoke nostalgia and offer unique filters for photos.
+     
 ### App Idea: Virtual Stylist & Outfit Planner
 As someone deeply interested in fashion, discovering Indyx was a game-changer for managing my wardrobe online and creating outfits. However, hiring a personal stylist through the app can be expensive for many users.
 
