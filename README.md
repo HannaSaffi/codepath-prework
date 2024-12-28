@@ -59,7 +59,9 @@ This app would combine the functionality of Indyx with the accessibility of Pint
 ## Notes 🛠️
 
 ⚠️ Debugging the crash caused by unconnected @IBOutlet properties (Fatal error: Unexpectedly found nil while implicitly unwrapping an Optional value).
+
 🎨 Ensuring the gradient background displayed properly and didn't interfere with UI elements.
+
 🔍 Iterating through subviews safely to change text colors dynamically without causing runtime errors.
 
 ## License 📜
