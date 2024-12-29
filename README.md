@@ -20,7 +20,6 @@ The following **required** functionality is completed:
 Here’s a walkthrough of my app:
 <div>
     <a href="https://www.loom.com/share/c8b35740983e4acaae78ee7188e5627f">
-      <p>Prework - 🎨 Color Changer - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/c8b35740983e4acaae78ee7188e5627f">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c8b35740983e4acaae78ee7188e5627f-1b554831dc82fa9f-full-play.gif">
